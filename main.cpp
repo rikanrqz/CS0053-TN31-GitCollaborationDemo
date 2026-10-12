@@ -7,5 +7,6 @@ cout << "\nMAIN MENU" << endl;
 cout << "1. Add Student" << endl;
 cout << "2. View Students" << endl;
 cout << "3. Exit" << endl;
+cout << "This is the branch feature/about"
 return 0;
 }
